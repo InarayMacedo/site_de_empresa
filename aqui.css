@@ -1,3 +1,4 @@
 .imgcima {height: 90%; width: 100%;}
-.imglogo {width: 7%; border-radius: 50%;}
-.carac {width: 45%;}
+.imglogo {width: 7%; }
+.carac {width: 45%; border-radius: 50%;}
+#titulos {color: black;}
